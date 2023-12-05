@@ -1,4 +1,4 @@
-# ICT Assignments Repository
+# 🗞️ ICT Assignments Repository
 
 Welcome to the ICT Assignments repository owned by Ahmed Musharaf. This repository contains three assignments related to different aspects of ICT.
 
